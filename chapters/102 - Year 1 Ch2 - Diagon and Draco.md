@@ -80,7 +80,7 @@ So Harry went back to the teller, exchanging a small mountain of gold coins for 
 
 "What now?" Harry asked as they stood at the foot of the marble stairs, blinking in the sunlight after the dim caverns.
 
-"Firs' we ought ta get yer trunk; we can put the res' o' yer' supplies in it. Easier ter carry, see," Hagrid replied. He led the way down the alley, to a shop called Packard's Luggage. The inside of the shop was full of trunks and bags and other luggage. A rotund man appeared, with round glasses, twinkling eyes, and a wreath of curly white hair ringing his otherwise-bald head.
+"Firs' we ought ta get yer trunk; we can put the res' o' yer' supplies in it. Easier ter carry, see," Hagrid replied. He led the way down the alley, to a shop called Packard's Luggage. The inside of the shop was full of trunks and bags and such. A rotund man appeared, with round glasses, twinkling eyes, and a wreath of curly white hair ringing his otherwise-bald head.
 
 "Good day to you, gentlemen! What can I do for you?" He asked jovially, shaking them both by the hand. Harry nearly dropped his sack of galleons.
 

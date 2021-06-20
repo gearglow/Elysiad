@@ -232,7 +232,7 @@ Hagrid arrived shortly thereafter, as did Sirius Black. Sirius left Hagrid his f
 Sirius tracked down Peter on a muggle street, where Peter shouted that Sirius had betrayed Lily and James. Sirius promptly blew up the street, killing Peter and 12 bystanders. The aurors responded, finding Sirius laughing hysterically, and dragged him off to Azkaban without a trial on Bartemius Crouch Sr.'s orders.
 
 #### What actually happened:
-Lily and Snape had begun rebuilding their friendship in 1979. By 10/31/81, they were regularly corresponding. Meanwhile, James was an Order of the Phoenix member, ostensibly fighting against the Death Eaters but primarily defending the status quo at Dumbledore's orders. Peter was in fact a member of Riddle's Inner Circle, and a Death Eater spy, having mended fences with Snape back in 1978. He was the impetus for Lily and Snape's reconciliation. Lily was a noted expert on blood magic, especially wards, and had corresponded with Snape about her research. Snape and Peter were also managing to change Lily's politics, garnering her sympathies for Riddle's cause.
+Lily and Snape had begun rebuilding their friendship in 1979. By 10/31/81, they were regularly corresponding. Meanwhile, James was an Order of the Phoenix member, ostensibly fighting against the Death Eaters but primarily defending the status quo at Dumbledore's orders. Peter was in fact a member of Riddle's Inner Circle, and a Death Eater spy, having mended fences with Snape back in 1977, their last year at Hogwarts. He was the impetus for Lily and Snape's reconciliation. Lily was a noted expert on blood magic, especially wards, and had corresponded with Snape about her research. Snape and Peter were also managing to change Lily's politics, garnering her sympathies for Riddle's cause.
 
 Dumbledore insisted that the Potters go into hiding, primarily to keep Lily's expertise from aiding Riddle, casting the Fidelius himself. As such, he knew about the secret-keeper swap.
 
@@ -311,11 +311,15 @@ Thomas, Dean
 #### Ravenclaw
 Boot, Terry
 MacDougal, Morag
+Patil, Padma
+Turpin, Lisa
 #### Hufflepuff
 Abbot, Hannah
 Bones, Susan
 Finch-Fletchley, Justin
 Macmillan, Ernest
+Jones, Megan
+Perks, Sally-Ann
 
 ## TODO:
 ### TODO Wixen perception of The-Boy-Who-Lived

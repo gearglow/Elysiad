@@ -6,7 +6,7 @@ As dessert dwindled and everyone finally sat back, stuffed to the gills, Dumbled
 
 Professor Quirrell stood and waved, looking like he'd rather be hiding under the table. A smattering of applause greeted him.
 
-"Now then," Prof. Dumbledore continued as Quirrell resumed his seat. "Our caretaker Mr. Filch has asked me to remind you all that Fanged Frisbees and Dancing Dungbombs have been added to the list of banned objects. The entire list, now comprising 347 items, can be found pinned to the door of Mr. Filch's office. Our new students are also to note," he said, eyes twinkling, "That the Forbidden Forest is, as the name suggests, strictly forbidden. Some of our returning students would do well to remember this as well." This last was aimed directly at Fred and George, who grinned and patted each other on the back loudly enough that Harry heard it across the hall.
+"Now then," Prof. Dumbledore continued as Quirrell resumed his seat. "Our caretaker Mr. Filch has asked me to remind you all that Fanged Frisbees and Dancing Dungbombs have been added to the list of banned objects. The entire list, now comprising 347 items, can be found pinned to the door of Mr. Filch's office. Our new students are also to note," he said, eyes twinkling, "That the Forbidden Forest is, as the name suggests, strictly forbidden. Some of our returning students would do well to remember this also." This last was aimed directly at Fred and George, who grinned and patted each other on the back loudly enough that Harry heard it across the hall.
 
 "Quidditch tryouts will be held during the second full week of classes. Any student wishing to join their House team should contact their Head of House before Monday of that week."
 

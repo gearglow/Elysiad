@@ -3,8 +3,6 @@ Over lunch at the Leaky Cauldron, Hagrid told Harry about the Dark Lord Voldemor
 
 Harry and Hagrid finally continued their shopping. Their next stop was Flourish & Blott's, a large bookstore. Harry quickly found the year's required textbooks, and then was immediately distracted by the multitude of other books. There were even a few about him, which was rather disconcerting.
 
-- [ ] What *do* they say about Harry?
-
 "Is that really what people say about me?" He muttered, thumbing through one. "I should be so lucky."
 
 Putting the book back, he was just about to walk across the aisle to another section when he was nearly run over by a girl. She had bushy brown hair and dark skin, and was carrying a stack of books so tall she could barely see over them. She was also dressed in a pink t-shirt, jeans, and black canvas trainers - muggle clothing, which stood out among all the robes.

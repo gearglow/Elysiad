@@ -139,7 +139,7 @@ Harry grinned and nodded, but didn't turn around as they filed past the four stu
 
 As the last students lined up across the dias, a seam opened just above the hat's brim, and it began to sing.
 
- -[ ] Insert Sorting Hat's song here
+ -[ ] TODO Insert Sorting Hat's song here
 
 The hat subsided, and Prof. McGonagall stepped forward with a scroll. "When I call your name, sit on the stool and place the hat upon your head. Once you are sorted, please remove the hat and take a seat at your House table." Unfurling the scroll, she continued. "Abbot, Hannah!"
 

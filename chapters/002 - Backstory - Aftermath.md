@@ -120,7 +120,7 @@ PRIORITY: URGENT
 *A bit late there, Moony,* Peter thought wryly. *But I suppose the sewers are safe enough for now.*
 
 ```
-> status "Scouting Priority 2."
+> status -set "Scouting Priority 2."
 STATUS UPDATED
 > owl -new
 TO: AGENT-W
@@ -179,7 +179,7 @@ PRIORITY: URGENT
 >
 > I've just returned from the Potter cottage in Godric's Hollow. It's a miracle anything's still standing; the basement was blown out and the support beams are crumbling. I was able to retrieve Le Fey's anchor amulet, but there was some minor damage to the runes. She's there, though; I can feel her. It just may be a bit of a job getting her into Elysium.
 >
-> As I'm being watched by Dumbledore and co. (ostensibly for grief-induced breakdowns, which is admittedly more true than I'd like to admit) I will be unable to deliver the amulet in a timely manner. If any of you are able, please coordinate with me for hand-off.
+> As I'm being watched by Dumbledore and co. (ostensibly for grief-induced breakdowns, which is admittedly more true than I'd like) I will be unable to deliver the amulet in a timely manner. If any of you are able, please coordinate with me for hand-off.
 >
 >   -- W
 >
@@ -253,7 +253,7 @@ CONNECTION TERMINATED
 
 Peter sat on a swing in the park between Magnolia and Privet, scuffing his toe in the dirt and letting his thoughts drift as he waited for Rookwood. Lily was with Remus. Harry's mother was alive. The Resurrection Cask was nowhere near finished, though, so who knew *how* long it'd be before she had a body again. Nobody was even sure if she could be linked to Elysium. *That's close enough to dead,* Peter supposed. *She can't exactly take care of a child in such a state. Poor Lily. Someday, though, they'll be together again. Unlike the Marauders.*
 
-His thoughts turns from sorrowful to bitter. Sirius had been in the paper that morning; he'd been thrown straight into Azkaban's top-security wing for life, without a trial or even a sentencing hearing, and Bartemius Crouch Sr. had *gloated.* And James was dead, killed by his own headstrong recklessness and pure bad luck, and Peter himself was presumed dead. Remus had been isolated so completely in one fell swoop, and even though they both knew Peter wasn't dead, and that Sirius was innocent, there was nothing at all they could do about it.
+His thoughts turns from sorrowful to bitter. Sirius had been in the paper that morning; he'd been thrown straight into Azkaban's top-security wing for life, without a trial or even a sentencing hearing, and Bartemius Crouch Sr. had *gloated.* James was dead, killed by his own headstrong recklessness and pure bad luck, and Peter himself was presumed dead. Remus had been isolated so completely in one fell swoop, and even though they both knew Peter wasn't dead, and that Sirius was innocent, there was nothing at all they could do about it.
 
 So where did that leave Harry? Peter knew that James and Lily's will had said that Harry should be raised by Frank and Alice Longbottom should it become necessary, and that Harry was *never* to be raised by Petunia and her husband. But somehow there he was. *Better Frank and Alice than those Dursleys. They're aurors, but almost anyone would be better than the Dursleys.* Still, the Inner Circle was no place to raise a baby. *Lucius and Narcissa, perhaps?* If they were able to get through the blood wards in the first place. The longer Peter thought about it, the more it seemed like the Longbottoms were the only possibility to rescue Harry from the Dursleys if the blood wards proved insurmountable.
 
@@ -327,7 +327,7 @@ They explained their findings, and Peter expounded on his earlier musings. "As G
 
 Lucius nodded. "I'll try. There may be some technicalities which can be leveraged."
 
-"Excellent. Go now, time is of the essence. Peter, stay a moment."
+"Excellent. And Augustus, see what you can do about the wards imprisoning young Harry. Swiftly now, all of you, time is of the essence. Peter, stay a moment."
 
 The room swiftly emptied, and soon only Peter and Tom were left.
 

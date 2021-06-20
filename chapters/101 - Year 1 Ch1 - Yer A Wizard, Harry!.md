@@ -1,7 +1,7 @@
 ## Year 1 - Ch. 1 - "Yer A Wizard, Harry!"
-It was a dark and stormy night. The air was cold and wet. You didn't have to be a seer to feel that something big was coming. Of course, Harry had no idea yet just *how* big.
+It was a dark and stormy night, because of course it was. You didn't have to be a seer to feel that something big was coming. Of course, Harry had no idea yet just *how* big.
 
-He'd been laying on the ground huddled under a poor excuse for a blanket, staring at the glowing hands of Dudley's watch; at midnight, it would be his eleventh birthday. And as the hands moved together, striking 12, the storm peaked with a roar and the door shuddered under a ferocious knocking, before falling clean off its hinges.
+He'd been laying on the ground huddled under a poor excuse for a blanket, lamenting the cold and wet, staring at the glowing hands of Dudley's watch; at midnight, it would be his eleventh birthday. And as the hands moved together, striking 12, the storm peaked with a roar and the door shuddered under a ferocious knocking, before falling clean off its hinges.
 
 A disconcertingly large and wild-looking man was silhouetted in a flash of lightning as he stepped through the doorway. Dudley, on the sofa, had jerked awake as Aunt Petunia and Uncle Vernon hurried into the room. The giant man stooped to fit the door back into place, reducing the storm to a dull roar, then turned to face them.
 
@@ -45,9 +45,9 @@ Harry thought that this sounded rather unpleasant, like chicken pox.
 
 *And you're a hairy wizard*, Harry's hysterical mind shot back. He managed to keep from actually saying it, although a nervous giggle escaped.
 
-"Or ye will be, anyway, once ye've been taught. An' a right good 'un, too, bein' James an' Lily's kid," Hagrid continued. "Oh, tha' reminds me." He pulled a familiar-looking envelope from his pocket and handed it to Harry with a flourish. It was the letter that had started the chain of events leading to Uncle Vernon's mad dash to isolation, dragging his family and Harry with him. He would finally get to read it!
+"Or ye will be, anyway, once ye've been taught. An' a right good 'un, too, bein' James an' Lily's kid," Hagrid continued. "Oh, tha' reminds me." He pulled a familiar-looking envelope from his pocket and handed it to Harry with a flourish. It was the letter that had started the chain of events leading to Uncle Vernon's mad dash for isolation, dragging his family and Harry with him. He would finally get to read it!
 
-The envelope was addressed in emerald ink to H. Potter, The Floor, Hut-on-the-rock, The Sea. Harry opened it to find a letter, written on a strange sort of paper in the same emerald ink, informing him that he was accepted at Hogwarts School of Witchcraft and Wizardry, as well as a list of required supplies.
+The envelope was addressed in emerald ink to H. Potter, The Floor, Hut-on-the-Rock, The Sea. Harry opened it to find a letter, written on a strange sort of paper in the same emerald ink, informing him that he was accepted at Hogwarts School of Witchcraft and Wizardry, as well as a list of required supplies.
 
 "What does it mean, they await my owl?" Harry asked.
 
@@ -59,7 +59,7 @@ The envelope was addressed in emerald ink to H. Potter, The Floor, Hut-on-the-ro
 
 Harry and Hagrid whirled around to find Aunt Petunia glaring at them with her arms crossed.
 
-"When we took him in, Vernon and I agreed that we'd stamp out this freakishness. You wizards are all mad, haven't an ounce of common sense. You all think you can just do whatever you want, and treat anyone without magic like a - a - a *thing* that you can just throw away. I won't have any part of that, and as the boy's guardian, I say neither will he. What good does magic ever do anybody anyway? Everyone thought my dear sister was so brilliant, and she went and got herself blown up before she ever really got to live. And then we get landed with the boy, and he's just as freakish as his parents, and nobody ever even asked us if we were able to raise a magical child - do you know how many times I found the boy inexplicably in dangerous circumstances, or how many times he set the drapes on fire? He could have killed us all in our sleep, and there would've been nothing we could do about it. And no way to ask for help, and nobody ever checked up on us. *It's not fair*."
+"When we took him in, Vernon and I agreed that we'd stamp out this freakishness. You wizards are all mad, haven't an ounce of common sense. You all think you can just do whatever you like, and treat anyone without magic like a - a - a *thing* that you can just throw away. I won't have any part of that, and as the boy's guardian, I say neither will he. What good does magic ever do anybody anyway? Everyone thought my dear sister was so brilliant, and she went and got herself blown up before she ever really got to live. And then we get landed with the boy, and he's just as freakish as his parents, and nobody ever even asked us if we were able to raise a magical child - do you know how many times I found the boy inexplicably in dangerous circumstances, or how many times he set the drapes on fire? He could have killed us all in our sleep, and there would've been nothing we could do about it. And no way to ask for help, and nobody ever checked up on us. *It's not fair*."
 
 Having finally run out of steam, Aunt Petunia went back to glaring at them. Harry stared at his aunt in shock.
 

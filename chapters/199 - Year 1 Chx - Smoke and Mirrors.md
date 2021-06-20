@@ -1,5 +1,5 @@
 # Year 1 - Endgame - Smoke and Mirrors
-First year, in the Mirror Chamber:
+## First year, in the Mirror Chamber:
 
 "You!"
 

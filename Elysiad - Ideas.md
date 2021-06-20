@@ -37,11 +37,11 @@ After the first Diagon Alley trip, the Grangers do research on the magical world
 is to fake Harry defeating Voldemort, per Dumbledore's interpretation of the prophecy, at which point Voldemort fakes vis death and assumes a new identity. Elysia transitions secretly and uses the Boy-Who-Lived victory prestige to push through certain measures before also assuming her new identity (faking a fatal injury from the "duel" perhaps?). FoE then becomes a parallel group to V's Inner Circle, working to destabilize pureblood society while the Inner Circle sets up the replacement. FoE does this by, among other measures, becoming thieves, saboteurs, and assassins. Ward-breaking becomes a substantial plot point.
 
 ### Humans are 4-part holographic fractals
-Body, mind, soul, and magical core.
+Body, mind, soul, and magic.
 
 ### The diary is _Dumbledore's_ horcrux, not Riddle's.
 + Dumbledore originally steals Riddle's form with polyjuice to make the diary horcrux (using a stolen diary from Riddle's room).
-+ This sets Riddle up as the perfect foil for Dumbledore's machinations.
++ This sets Riddle up as the perfect patsy for Dumbledore's machinations.
 
 ### Dumbledore's horcruxes are the diary and Fawkes the phoenix.
 + He wanted a three-part soul, as a trade-off between sanity and power.

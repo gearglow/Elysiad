@@ -13,7 +13,7 @@ It was a handsome face, Harry thought, even with the glowing red eyes. No hair a
 
 Harry shook his head in confusion. "He what?"
 
-"First things first, Harry." V began pacing, twirling vis wand in vis fingers. "I regret that such - abrupt - measures were necessary, but I'm glad to be able to speak with you away from Albus' influence. And I must thank you; without your blood, my so-called resurrection would have failed entirely. Now," ve turned, "I shall let you loose, but please don't do anything rash. I merely wish to speak with you, and tell you what really happened the night your parents died."
+"First things first, Harry." V began pacing, twirling vis wand in vis fingers. "I regret that such - *abrupt* - measures were necessary, but I'm glad to be able to speak with you away from Albus' influence. And I must thank you; without your blood, my so-called resurrection would have failed entirely. Now," ve turned, "I shall let you loose, but please don't do anything rash. I merely wish to speak with you, and tell you what really happened the night your parents died."
 
 "I know what happened," Harry shouted. "Dumbledore told me you killed them, then tried to kill me!"
 

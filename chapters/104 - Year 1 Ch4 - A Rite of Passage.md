@@ -112,7 +112,7 @@ They made their way down the train, until a few cars later Harry spotted a famil
 
 "Hermione!" Harry cheered as he slid open the door.
 
-Hermione looked up from a book she'd been reading (*Hogwarts, A History*, Harry noticed) and smiled broadly. "Harry!" She jumped up and wrapped him in a bone-crushing hug. Harry let out a strained squeak, and Hermione released him with a sheepish grin. "How was your summer? Did you find the platform okay? That barrier was quite the trick, wasn't it? Who's your friend?"
+Hermione looked up from a book she'd been reading (*Hogwarts, A History*, Harry noticed) and smiled broadly. "Harry!" She jumped up and wrapped him in a bone-crushing hug, her robes swirling around them. Harry let out a strained squeak, and Hermione released him with a sheepish grin. "How was your summer? Did you find the platform okay? That barrier was quite the trick, wasn't it? Who's your friend?"
 
 Ron stood in the doorway, gobsmacked at the girl's torrent of words.
 
