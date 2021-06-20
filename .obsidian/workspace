@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "62cad83105df0c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce720987d417ae4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapters/107 - Year 1 Ch7 - Flyaways.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7086dcde605fe155",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e9031a4b68de8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870912a741806650",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b08dabb73325805e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "457d5d188aa2aeb0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240
+  },
+  "right": {
+    "id": "93ac0e460e9afcf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbfc2c95c3af11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f0a8169dfdc65a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapters/107 - Year 1 Ch7 - Flyaways.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "250f832ac709164f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chapters/107 - Year 1 Ch7 - Flyaways.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a439a131b43fc0e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapters/107 - Year 1 Ch7 - Flyaways.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ce720987d417ae4a",
+  "lastOpenFiles": [
+    "chapters/107 - Year 1 Ch7 - Flyaways.md",
+    "chapters/106 - Year 1 Ch6 - Snakes.md",
+    "chapters/105 - Year 1 Ch5 - Get Sorted.md",
+    "Elysiad - Notes.md",
+    "chapters/104 - Year 1 Ch4 - A Rite of Passage.md",
+    "chapters/103 - Year 1 Ch3 - Diagon and On.md",
+    "chapters/102 - Year 1 Ch2 - Diagon and Draco.md",
+    "chapters/101 - Year 1 Ch1 - Yer A Wizard, Harry!.md",
+    "chapters/100 - Prelude - The Boy Who Wasn't.md",
+    "chapters/199 - Year 1 Chx - Smoke and Mirrors.md"
+  ]
+}
