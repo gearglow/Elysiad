@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapters/107 - Year 1 Ch7 - Flyaways.md",
+            "file": "chapters/108 - Year 1 Ch8 - Potions and Parties.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/107 - Year 1 Ch7 - Flyaways.md",
+                "file": "chapters/108 - Year 1 Ch8 - Potions and Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/107 - Year 1 Ch7 - Flyaways.md",
+                "file": "chapters/108 - Year 1 Ch8 - Potions and Parties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/107 - Year 1 Ch7 - Flyaways.md"
+                "file": "chapters/108 - Year 1 Ch8 - Potions and Parties.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "ce720987d417ae4a",
   "lastOpenFiles": [
+    "chapters/108 - Year 1 Ch8 - Potions and Parties.md",
     "chapters/107 - Year 1 Ch7 - Flyaways.md",
     "chapters/106 - Year 1 Ch6 - Snakes.md",
     "chapters/105 - Year 1 Ch5 - Get Sorted.md",
@@ -127,7 +128,6 @@
     "chapters/103 - Year 1 Ch3 - Diagon and On.md",
     "chapters/102 - Year 1 Ch2 - Diagon and Draco.md",
     "chapters/101 - Year 1 Ch1 - Yer A Wizard, Harry!.md",
-    "chapters/100 - Prelude - The Boy Who Wasn't.md",
-    "chapters/199 - Year 1 Chx - Smoke and Mirrors.md"
+    "chapters/100 - Prelude - The Boy Who Wasn't.md"
   ]
 }

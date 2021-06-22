@@ -1,6 +1,6 @@
 # Year 1, Chapter 7 - Flyaways
 
-Morning came swiftly, in a glow of sunlight through the Lake's emerald waters. Harry blinked slowly awake, fumbling for his glasses and finding a book next to them on the headboard. It was a slim volume bound in Slytherin-green, with the title "Slytherin Student Handbook" in silver.
+Morning came swiftly, in a glow of sunlight through the Lake's emerald waters. Harry blinked slowly awake, fumbling for his glasses and finding a book next to them on the headboard shelf. It was a slim volume bound in Slytherin-green, with the title "Slytherin Student Handbook" in silver.
 
 *That's helpful,* Harry thought, finally finding his glasses. He sat up and flipped through the volume. Aside from the school and house rules, there was a section containing simple charms for telling the time, setting alarms, personal grooming and cleaning, and other such mundanities, with instructions and ratings by year. There was also a section at the back with a list of the school's staff and faculty, with office hours and locations, and right at the back a little pocket flap labeled "Schedule."
 
@@ -12,15 +12,15 @@ A toothbrush, washcloth, and towel were resting neatly on the counter, next to t
 
 Harry yelped, backing up and tripping over the edge of the tub. It was dry, thankfully, but he still found himself sprawled painfully in the bottom.
 
-"The mirror talks!?" he asked incredulously.
+"The mirror talks!?" He gasped incredulously.
 
-"Of course we do!" the mirror replied. "What good is a mirror that lets you wander about at less than your best?"
+"Of course we do!" The mirror replied. "What good is a mirror that lets you wander about at less than your best?"
 
 Harry shook his head. *Of course,* he thought. *This* is *Slytherin House. Gotta make sure we all look the part.*
 
 He clambered up, gathered the shower supplies, and clambered back into the tub, drawing the curtain before undressing and throwing his nightclothes into a pile by the door. The many taps turned out to all be various bubbles; some were thick and frothy, some skimmed lightly above the water and popped with a delicate *ping.* There was even one that left his finger shimmery when he dipped it in. Finally he found the plain hot water, the tap nearest the shower-head, and washed quickly.
 
-The bath-towel turned out to be both fluffy and enormous, reaching nearly to the floor even when Harry wrapped it around himself just under his shoulders. It was warm, too, as were the tiles, which Harry had not noticed before but now appreciated immensely.
+The bath-towel turned out to be both fluffy and enormous, reaching nearly to the floor even when Harry wrapped it around himself just under his shoulders. It was warm, too, as were the tiles, which Harry had not noticed before but now appreciated immensely. And as he walked to the counter, he felt the tiles wicking the water from his feet, ensuring that he wouldn't slip.
 
 The mirror had not fogged over, or had cleared itself magically; Harry couldn't tell which, but found it disconcerting nonetheless. He shrugged, hoping the mirror would keep its commentary to itself, and got on with it.
 
@@ -222,13 +222,13 @@ Neville looked down and groaned.
 
 After lunch, the Slytherins all trooped out to the grounds, where Madame Hooch was waiting with two rows of brooms laid out on the grass. Madame Hooch was an athletic-looking woman with spiky hair and amber eyes. Harry thought she resembled a hawk. The Gryffindors soon joined them, and they each lined up behind a broom.
 
-Neville managed to grab a spot next to Harry, and across from Pansy. "I remembered what I wanted to ask earlier," He told Harry quietly. "Would you watch my back today? Brooms make me nervous, and I'd feel better knowing someone was looking out for me."
+Neville managed to grab a spot next to Harry, and across from Pansy. "I remembered what I wanted to ask earlier," he told Harry quietly. "Would you watch my back today? Brooms make me nervous, and I'd feel better knowing someone was looking out for me."
 
 Harry smiled reassuringly. "Of course, Nev," he said.
 
 Madame Hooch started calling out instructions then. "Place your hand above your broom, and say 'up.'"
 
-"UP!" everyone called out. Harry's broom leapt straight into his hand. A few others did too; Draco looked pleased and had an excited grin on his face. Pansy had hers in a grip so tight her knuckles were white.
+"UP!" Everyone called out. Harry's broom leapt straight into his hand. A few others did too; Draco looked pleased and had an excited grin on his face. Pansy had hers in a grip so tight her knuckles were white.
 
 Others, however, were not so lucky. Hermione's had lifted about a foot and then floated back down. Ron's had nearly smacked him in the face. And Neville's had merely rolled over.
 
@@ -382,6 +382,6 @@ Harry mounted his broom and hovered a few feet up. Flint grabbed a sack from the
 
 Harry didn't miss a single one, which pleased Flint greatly. He could hear his friends cheer every time he caught a walnut, even as Flint threw them harder and further. Eventually, after catching the last one in a steep dive, Flint called him to the ground.
 
-"I can see what Madame Hooch was so excited about," Flint said, with a manic gleam in his eye. "We'll beat that plonker Wood this year for sure! Slytherin'll be a cinch for the Cup with you on the team! Welcome aboard, Potter!"
+"I can see what Madame Hooch was so excited about," Flint said, with a manic gleam in his eye. "We'll beat that plonker Wood this year for sure! Slytherin'll be a cinch for the Cup with you on the team. Welcome aboard, Potter!"
 
 Flint shook his hand vigorously. His friends cheered louder than ever from the stands. Harry couldn't help but grin.
