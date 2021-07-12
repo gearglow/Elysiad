@@ -8,3 +8,5 @@ Hermione and the twins reverse-engineer the Fidelius charm and build a portable 
 Intersperse normal chapters with IC field reports.
 
 Sprout is Dumbledore's second. She also has a horcrux, and the two have an agreement to resurrect each other.
+
+V was a freelance curse-breaker after working at Borgin & Burke's.
